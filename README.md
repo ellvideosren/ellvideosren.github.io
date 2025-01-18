@@ -1,4 +1,20 @@
+# Renat Elizbarian - Showreel
 
+This project is a personal showreel webpage showcasing a fullscreen background video with a centered name text overlay. The design is minimalistic and stylish, featuring responsive adjustments and smooth visual effects.
+
+## Features
+- Fullscreen video background.
+- Centered, bold text overlay with a modern blend effect.
+- Mobile-friendly and responsive design.
+
+## Preview
+To preview the project, open the `index.html` file in your browser.
+
+## Code
+
+Below is the HTML structure and CSS styling used in this project:
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
